@@ -1,6 +1,6 @@
 
 # 大學心理系專題研究: 空間記憶測驗-前測
-
+[Seminar Poster](https://github.com/TheRookie2021/Project-Cognitive-training/blob/main/Seminar%20Poster.pdf)
 ## 指導教授 
   楊政達
 
